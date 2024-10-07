@@ -237,7 +237,6 @@ const styles = StyleSheet.create({
         height: 52.15,
         padding: 10,
         marginTop: 10,
-        backgroundColor: 'yellow'
     },
     ranking: {
         fontSize: 22,
